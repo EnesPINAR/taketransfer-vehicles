@@ -2175,6 +2175,398 @@
                {"model":"Wagon R","type":"Economy"},
                {"model":"XL7","type":"SUV"}
             ]
+         },
+         {
+            "brand":"Tata",
+            "models":[
+               {"model":"Aria","type":"SUV"},
+               {"model":"Bolt","type":"Economy"},
+               {"model":"Indica","type":"Economy"},
+               {"model":"Indico","type":"Economy"},
+               {"model":"Nano","type":"Economy"},
+               {"model":"Nexon","type":"SUV"},
+               {"model":"Safari","type":"SUV"},
+               {"model":"Sumo","type":"SUV"},
+               {"model":"Zest","type":"Economy"}
+            ]
+         },
+         {
+            "brand":"Temsa",
+            "models":[
+               {"model":"MD 7","type":"Bus"},
+               {"model":"MD 9","type":"Bus"},
+               {"model":"Maraton","type":"Bus"},
+               {"model":"Prestij","type":"Bus"},
+               {"model":"Safari","type":"Bus"},
+               {"model":"Safir","type":"Bus"},
+               {"model":"TS 30","type":"Bus"},
+               {"model":"TS 35","type":"Bus"}
+            ]
+         },
+         {
+            "brand":"Tesla",
+            "models":[
+               {"model":"Model 3","type":"Comfort"},
+               {"model":"Model S","type":"Premium"},
+               {"model":"Model X","type":"Premium"},
+               {"model":"Model Y","type":"SUV"},
+               {"model":"Roadster","type":"Premium"}
+            ]
+         },
+         {
+            "brand":"Toyota",
+            "models":[
+               {"model":"4Runner","type":"SUV"},
+               {"model":"Agya","type":"Economy"},
+               {"model":"Allion","type":"Economy"},
+               {"model":"Alphard","type":"Van"},
+               {"model":"Altezza","type":"Economy"},
+               {"model":"Altis","type":"Economy"},
+               {"model":"Aqua","type":"Economy"},
+               {"model":"Aurion","type":"Comfort"},
+               {"model":"Auris","type":"Economy"},
+               {"model":"Auris Station Wagon","type":"Economy"},
+               {"model":"Avalon","type":"Comfort"},
+               {"model":"Avanza","type":"Van"},
+               {"model":"Avensis","type":"Comfort"},
+               {"model":"Avensis Verso","type":"Van"},
+               {"model":"Axio","type":"Economy"},
+               {"model":"Aygo","type":"Economy"},
+               {"model":"BB","type":"Economy"},
+               {"model":"Belta","type":"Economy"},
+               {"model":"Brevis","type":"Comfort"},
+               {"model":"C-HR","type":"Comfort"},
+               {"model":"Caldina","type":"Comfort"},
+               {"model":"Calya","type":"Van"},
+               {"model":"Camry","type":"Comfort"},
+               {"model":"Carina","type":"Economy"},
+               {"model":"Celica","type":"Economy"},
+               {"model":"Celsior","type":"Business"},
+               {"model":"Century","type":"Business"},
+               {"model":"Chaser","type":"Economy"},
+               {"model":"Coaster","type":"Minibus"},
+               {"model":"Comfort","type":"Comfort"},
+               {"model":"Commuter","type":"Van"},
+               {"model":"Condor","type":"SUV"},
+               {"model":"Conquest","type":"Economy"},
+               {"model":"Corolla","type":"Economy"},
+               {"model":"Corolla Cross","type":"SUV"},  
+               {"model":"Corolla Fielder","type":"Comfort"},  
+               {"model":"Corolla Station Wagon","type":"Comfort"},  
+               {"model":"Corolla Verso","type":"Comfort"},  
+               {"model":"Corona","type":"Economy"},
+               {"model":"Crown","type":"Business"},
+               {"model":"Echo","type":"Economy"},
+               {"model":"Esquire","type":"Van"},
+               {"model":"Estima","type":"Van"},
+               {"model":"Etios","type":"Economy"},
+               {"model":"Etios Sedan","type":"Economy"},
+               {"model":"FJ Cruiser","type":"SUV"},
+               {"model":"Fielder","type":"Comfort"},
+               {"model":"Fortuner","type":"SUV"},
+               {"model":"Gaia","type":"SUV"},
+               {"model":"Granvia","type":"Van"},
+               {"model":"Harrier","type":"SUV"},
+               {"model":"Hiace","type":"Van"},
+               {"model":"Hiace Hiace High Roof","type":"Van"},
+               {"model":"Highlander","type":"SUV"},
+               {"model":"Hilux","type":"SUV"},
+               {"model":"ISis","type":"Van"},
+               {"model":"Innova","type":"Van"},
+               {"model":"Ipsum","type":"Van"},
+               {"model":"Ist","type":"Economy"},
+               {"model":"JPN Taxi","type":"Comfort"},
+               {"model":"KDH","type":"Van"},
+               {"model":"Kluger","type":"SUV"},
+               {"model":"Land Cruiser","type":"SUV"},
+               {"model":"Land Cruiser Prado","type":"SUV"},
+               {"model":"Lexcen","type":"Economy"},
+               {"model":"Light Ace","type":"Van"},
+               {"model":"Mark II","type":"Economy"},
+               {"model":"Mark II Station Wagon","type":"Comfort"},
+               {"model":"Mark X","type":"Comfort"},
+               {"model":"Mark X Zio","type":"Van"},
+               {"model":"Matrix","type":"Economy"},
+               {"model":"Mega Cruiser","type":"SUV"},
+               {"model":"Mirai","type":"Comfort"},
+               {"model":"Nadia","type":"Van"},
+               {"model":"Noah","type":"Van"},
+               {"model":"Opa","type":"Comfort"},
+               {"model":"Paseo","type":"Economy"},
+               {"model":"Passo","type":"Economy"},
+               {"model":"Picnic","type":"Van"},
+               {"model":"Platz","type":"Economy"},
+               {"model":"Porte","type":"Economy"},
+               {"model":"Premio","type":"Comfort"},
+               {"model":"Previa","type":"Van"},
+               {"model":"Prius","type":"Economy"},
+               {"model":"Prius C","type":"Economy"},
+               {"model":"Prius PHV","type":"Economy"},
+               {"model":"Prius Plus","type":"SUV"},
+               {"model":"Prius V","type":"Economy"},
+               {"model":"ProAce","type":"Van"},
+               {"model":"ProAce Long","type":"Van"},
+               {"model":"ProAce Verso","type":"Van"},
+               {"model":"Quantum","type":"Van"},
+               {"model":"Ravr","type":"SUV"},
+               {"model":"Ractis","type":"Economy"},
+               {"model":"Raum","type":"Economy"},
+               {"model":"Regius","type":"Van"},
+               {"model":"RunX","type":"Economy"},
+               {"model":"Rush","type":"SUV"},
+               {"model":"Sai","type":"Economy"},
+               {"model":"Sequoia","type":"SUV"},
+               {"model":"Sienna","type":"Van"},
+               {"model":"Sienta","type":"Van"},
+               {"model":"Spade","type":"Comfort"},
+               {"model":"Sprinter","type":"Economy"},
+               {"model":"Starlet","type":"Economy"},
+               {"model":"Succeed","type":"Economy"},
+               {"model":"Supra","type":"Premium"},
+               {"model":"Tacoma","type":"SUV"},
+               {"model":"Tank","type":"Economy"},
+               {"model":"Tarago","type":"Van"},
+               {"model":"Town Ace Noah","type":"Van"},
+               {"model":"Tundra","type":"SUV"},
+               {"model":"Vellfire","type":"Van"},
+               {"model":"Veloz","type":"Van"},
+               {"model":"Venture","type":"SUV"},
+               {"model":"Ventury","type":"Van"},
+               {"model":"Venza","type":"SUV"},
+               {"model":"Verossa","type":"Comfort"},
+               {"model":"Verso","type":"Van"},
+               {"model":"Vigo","type":"SUV"},
+               {"model":"Vios","type":"Economy"},
+               {"model":"Vitz","type":"Economy"},
+               {"model":"Voxy","type":"Van"},
+               {"model":"Will","type":"Economy"},
+               {"model":"Wish","type":"Van"},
+               {"model":"Yaris","type":"Economy"}
+            ]
+         },
+         {
+            "brand":"Trumpchi",
+            "models":[
+               {"model":"GA5","type":"Economy"},
+               {"model":"GS7","type":"SUV"}
+            ]
+         },
+         {
+            "brand":"Tuk-tuk",
+            "models":[
+               {"model":"Limo gt","type":"Economy"}
+            ]
+         },
+         {
+            "brand":"UAZ",
+            "models":[
+               {"model":"Hunter","type":"SUV"},
+               {"model":"Patriot","type":"SUV"}
+            ]
+         },
+         {
+            "brand":"Van Hool",
+            "models":[
+               {"model":"Astromega","type":"Bus"},
+               {"model":"C2045","type":"Bus"},
+               {"model":"C2045-L","type":"Bus"},
+               {"model":"EX17H","type":"Bus"},
+               {"model":"T2145","type":"Bus"},
+               {"model":"T917 Acron","type":"Bus"},
+               {"model":"TX16 Alicron","type":"Bus"},
+               {"model":"TX18 Altano","type":"Bus"}
+            ]
+         },
+         {
+            "brand":"Vauxhall",
+            "models":[
+               {"model":"Agila","type":"Economy"},
+               {"model":"Ampera","type":"Comfort"},
+               {"model":"Astra","type":"Economy"},
+               {"model":"Corsa","type":"Economy"},
+               {"model":"Crossland","type":"SUV"},
+               {"model":"Insignia","type":"Comfort"},
+               {"model":"Insignia Station Wagon","type":"Comfort"},
+               {"model":"Monaro","type":"Economy"},
+               {"model":"Movano","type":"Minibus"},
+               {"model":"Signum","type":"Comfort"},
+               {"model":"VX220","type":"Premium"},
+               {"model":"Vectra","type":"Economy"},
+               {"model":"Vivaro","type":"Van"},
+               {"model":"Vivaro Long","type":"Van"},
+               {"model":"Zafira","type":"Van"}
+            ]
+         },
+         {
+            "brand":"VDL",
+            "models":[
+               {"model":"Axial 100","type":"Bus"},
+               {"model":"Futura","type":"Bus"},
+               {"model":"Magiq","type":"Bus"}
+            ]
+         },
+         {
+            "brand":"Volare",
+            "models":[
+               {"model":"W9","type":"Bus"}
+            ]
+         },
+         {
+            "brand":"Volswagen",
+            "models":[
+               {"model":"Amarog","type":"SUV"},
+               {"model":"Arteon","type":"Business"},
+               {"model":"Atlas","type":"SUV"},
+               {"model":"Beetle","type":"Economy"},
+               {"model":"Bora","type":"Economy"},
+               {"model":"Caddy","type":"Van"},
+               {"model":"Caddy Maxi","type":"Van"},
+               {"model":"Caravelle","type":"Van"},
+               {"model":"Caravelle Long","type":"Van"},
+               {"model":"Crafter","type":"Minibus"},
+               {"model":"Eos","type":"Economy"},
+               {"model":"Fox","type":"Economy"},
+               {"model":"Gol","type":"Economy"},
+               {"model":"Golf","type":"Economy"},
+               {"model":"Golf Cabriolet","type":"Economy"},
+               {"model":"Golf Plus","type":"Comfort"},
+               {"model":"Golf Station Wagon","type":"Comfort"},
+               {"model":"Golf Station Wagon 7 Seats","type":"Comfort"},
+               {"model":"ID.3","type":"Economy"},
+               {"model":"ID.4","type":"SUV"},
+               {"model":"Jetta","type":"Comfort"},
+               {"model":"Jetta Station Wagon","type":"Comfort"},
+               {"model":"LT - Series","type":"Minibus"},
+               {"model":"Lavida","type":"Business"},
+               {"model":"Microbus","type":"Minibus"},
+               {"model":"Multivan","type":"Van"},
+               {"model":"Nivus","type":"SUV"},
+               {"model":"Pasat","type":"Business"},
+               {"model":"Pasat CC","type":"Business"},
+               {"model":"Passat Station Wagon","type":"Business"},
+               {"model":"Phaeton","type":"Business"},
+               {"model":"Polo","type":"Economy"},
+               {"model":"Routan","type":"Van"},
+               {"model":"Sharan","type":"Van"},
+               {"model":"Suran","type":"Economy"},
+               {"model":"T-Cross","type":"SUV"},
+               {"model":"T-Roc","type":"SUV"},
+               {"model":"Teramont","type":"SUV"},
+               {"model":"Tiguan","type":"SUV"},
+               {"model":"Touareg","type":"SUV"},
+               {"model":"Touran","type":"Van"},
+               {"model":"Transporter","type":"Van"},
+               {"model":"Up","type":"Economy"},
+               {"model":"Vento","type":"Economy"},
+               {"model":"Virtus","type":"Comfort"},
+               {"model":"Voyage","type":"Economy"},
+               {"model":"Scirocco","type":"Economy"}
+            ]
+         },
+         {
+            "brand":"Volvo",
+            "models":[
+               {"model":"460","type":"Economy"},
+               {"model":"480","type":"Economy"},
+               {"model":"850","type":"Economy"},
+               {"model":"9500","type":"Bus"},
+               {"model":"960","type":"Comfort"},
+               {"model":"9700","type":"Bus"},
+               {"model":"9900","type":"Bus"},
+               {"model":"B10M","type":"Bus"},
+               {"model":"B11R","type":"Bus"},
+               {"model":"B12","type":"Bus"},
+               {"model":"B13R","type":"Bus"},
+               {"model":"B7R","type":"Bus"},
+               {"model":"B9R","type":"Bus"},
+               {"model":"C30","type":"Economy"},
+               {"model":"C70","type":"Comfort"},
+               {"model":"Irizar","type":"Bus"},
+               {"model":"S40","type":"Economy"},
+               {"model":"S60","type":"Comfort"},
+               {"model":"S70","type":"Economy"},
+               {"model":"S80","type":"Business"},
+               {"model":"S90","type":"Premium"},
+               {"model":"V40","type":"Economy"},
+               {"model":"V50","type":"Comfort"},
+               {"model":"V60","type":"Comfort"},
+               {"model":"V70","type":"Comfort"},
+               {"model":"V90","type":"Business"},
+               {"model":"XC40","type":"SUV"},
+               {"model":"XC60","type":"SUV"},
+               {"model":"XC70","type":"Comfort"},
+               {"model":"XC90","type":"SUV"}
+            ]
+         },
+         {
+            "brand":"Vortex",
+            "models":[
+               {"model":"Tingo","type":"SUV"}
+            ]
+         },
+         {
+            "brand":"Wallys",
+            "models":[
+               {"model":"Iris","type":"SUV"},
+               {"model":"Izis","type":"SUV"}
+            ]
+         },
+         {
+            "brand":"Wuling",
+            "models":[
+               {"model":"Confero","type":"Van"},
+               {"model":"Cortez","type":"Van"}
+            ]
+         },
+         {
+            "brand":"Yutong",
+            "models":[
+               {"model":"TC9","type":"Bus"},
+               {"model":"ZK6119HA","type":"Bus"},
+               {"model":"ZK6122H9","type":"Bus"},
+               {"model":"ZK6129H","type":"Bus"},
+               {"model":"ZK6729D","type":"Bus"},
+               {"model":"ZK6737D","type":"Bus"},
+               {"model":"ZK6808BEVQ1","type":"Bus"},
+               {"model":"ZK6858H9","type":"Bus"},
+               {"model":"ZK6876H","type":"Bus"},
+               {"model":"ZK6899HA","type":"Bus"},
+               {"model":"ZK6938HB9","type":"Bus"}
+            ]
+         },
+         {
+            "brand":"Zaz",
+            "models":[
+               {"model":"Chance","type":"Economy"},
+               {"model":"Froza","type":"Economy"},
+               {"model":"Slavuta","type":"Economy"}
+            ]
+         },
+         {
+            "brand":"Zhong Tong",
+            "models":[
+               {"model":"LCK127H","type":"Bus"},
+               {"model":"LCK6127H","type":"Bus"}
+            ]
+         },
+         {
+            "brand":"Zotue",
+            "models":[
+               {"model":"T600","type":"SUV"}
+            ]
+         },
+         {
+            "brand":"ЛиАЗ",
+            "models":[
+               {"model":"6213","type":"Bus"}
+            ]
+         },
+         {
+            "brand":"ПАЗ",
+            "models":[
+               {"model":"3205","type":"Bus"},
+               {"model":"4234","type":"Bus"}
+            ]
          }
     ]
 }
