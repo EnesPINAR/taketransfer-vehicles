@@ -1,13 +1,13 @@
 {
     "brands": [
         {"brand":"Acuro","models":[
-            {"model":"CL","type":"economy"},
-            {"model":"EL","type":"economy"},
-            {"model":"ILX","type":"economy"},
-            {"model":"MDX","type":"economy"},
-            {"model":"RLX","type":"economy"},
-            {"model":"TL","type":"economy"},
-            {"model":"TLX","type":"economy"}
+            {"model":"CL","type":"Economy"},
+            {"model":"EL","type":"Economy"},
+            {"model":"ILX","type":"Economy"},
+            {"model":"MDX","type":"Economy"},
+            {"model":"RLX","type":"Economy"},
+            {"model":"TL","type":"Economy"},
+            {"model":"TLX","type":"Economy"}
          ]},
          {"brand":"Aerospatiale","models":[
             {"model":"AS.350","type":"Helicopter"},
@@ -216,7 +216,7 @@
          },
          {
             "brand":"Bova","models":[
-               {"model":"BS4","type":"Econmy"},
+               {"model":"BS4","type":"Economy"},
                {"model":"H530","type":"Comfort"},
                {"model":"Huasong 7","type":"Van"},
                {"model":"V5","type":"SUV"}
@@ -2011,6 +2011,169 @@
                {"model":"Mii","type": "Economy"},
                {"model":"Tarraco","type": "SUV"},
                {"model":"Toledo","type": "Economy"}
+            ]
+         },
+         {
+            "brand": "Setra",
+            "models": [
+               {"model":"S 519 HD","type": "Bus"},
+               {"model":"315 HD","type": "Bus"},
+               {"model":"N","type": "Bus"},
+               {"model":"S 315 GT HD","type": "Bus"},
+               {"model":"S 315 HDH","type": "Bus"},
+               {"model":"S 317 GT HD","type": "Bus"},
+               {"model":"S 411 HD","type": "Bus"},
+               {"model":"S 415 GT","type": "Bus"},
+               {"model":"S 415 HD","type": "Bus"},
+               {"model":"S 415 NDH","type": "Bus"},
+               {"model":"S 416 GT-HD-2","type": "Bus"},
+               {"model":"S 416 HDH","type": "Bus"},
+               {"model":"S 417","type": "Bus"},
+               {"model":"S 431 DT","type": "Bus"},
+               {"model":"S 515 HD","type": "Bus"},
+               {"model":"S 517 HDH","type": "Bus"}
+            ]
+         },
+         {
+            "brand": "Shared Van",
+            "models": [
+               {"model":"1 place, pick-up at desired time, free waiting time max 10 min","type": "Economy"},
+               {"model":"1 place, pick-up within 1 hour (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"1 place, pick-up within 2 hours (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"1 place, pick-up within 3 hours (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"2 places, pick-up at desired time, free waiting time max 10 min","type": "Economy"},
+               {"model":"2 places, pick-up within 1 hour (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"2 places, pick-up within 2 hours (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"2 places, pick-up within 3 hours (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"3 places, pick-up at desired time, free waiting time max 10 min","type": "Economy"},
+               {"model":"3 places, pick-up within 1 hour (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"3 places, pick-up within 2 hours (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"3 places, pick-up within 3 hours (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"4 places, pick-up at desired time, free waiting time max 10 min","type": "Economy"},
+               {"model":"4 places, pick-up within 1 hour (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"4 places, pick-up within 2 hours (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"4 places, pick-up within 3 hours (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"5 places, pick-up at desired time, free waiting time max 10 min","type": "Economy"},
+               {"model":"5 places, pick-up within 1 hour (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"5 places, pick-up within 2 hours (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"5 places, pick-up within 3 hours (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"6 places, pick-up at desired time, free waiting time max 10 min","type": "Economy"},
+               {"model":"6 places, pick-up within 1 hour (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"6 places, pick-up within 2 hours (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"6 places, pick-up within 3 hours (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"},
+               {"model":"7 places, pick-up at desired time, free waiting time max 10 min","type": "Economy"},
+               {"model":"7 places, pick-up within 2 hours (Exact pick-up time by SMS the day before the trip), free waiting time max 10 min","type": "Economy"}
+            ]
+         },
+         {
+            "brand":"Shenlong",
+            "models":[
+               {"model":"SLK6931","type":"Bus"}
+            ]
+         },
+         {
+            "brand":"Skoda",
+            "models":[
+               {"model":"Enyaq","type":"SUV"},
+               {"model":"Fabia","type":"Economy"},
+               {"model":"Fabia Station Wagon","type":"Economy"},
+               {"model":"Felicia","type":"Economy"},
+               {"model":"Karoq","type":"SUV"},
+               {"model":"Kodiaq","type":"SUV"},
+               {"model":"Montreux","type":"Comfort"},
+               {"model":"Octavia","type":"Comfort"},
+               {"model":"Octavia Station Wagon","type":"Comfort"},
+               {"model":"Praktik","type":"Van"},
+               {"model":"Rapid","type":"Economy"},
+               {"model":"Roomster","type":"Comfort"},
+               {"model":"Scala","type":"Economy"},
+               {"model":"Superb","type":"Business"},
+               {"model":"Superb Station Wagon","type":"Business"},
+               {"model":"Yeti","type":"SUV"}
+            ]
+         },
+         {
+            "brand":"Smart",
+            "models":[
+               {"model":"Brabus","type":"Economy"},
+               {"model":"ForFour","type":"Economy"},
+               {"model":"ForTwo","type":"Economy"}
+            ]
+         },
+         {
+            "brand":"SsangYong",
+            "models":[
+               {"model":"Actyon","type":"SUV"},
+               {"model":"Chairman","type":"Business"},
+               {"model":"Istana","type":"Van"},
+               {"model":"Korando","type":"SUV"},
+               {"model":"Kyron","type":"SUV"},
+               {"model":"Musso","type":"SUV"},
+               {"model":"Rexton","type":"SUV"},
+               {"model":"Rodius","type":"Van"},
+               {"model":"Stavic","type":"Van"},
+               {"model":"Tivoli","type":"Economy"},
+               {"model":"Transtar","type":"Bus"},
+               {"model":"XLV","type":"SUV"}
+            ]
+         },
+         {
+            "brand":"Subaru",
+            "models":[
+               {"model":"Ascent","type":"SUV"},
+               {"model":"B9 Tribeca","type":"SUV"},
+               {"model":"Forester","type":"SUV"},
+               {"model":"Impreza","type":"Comfort"},
+               {"model":"Legacy","type":"Comfort"},
+               {"model":"Liberty","type":"Business"},
+               {"model":"Outback","type":"SUV"},
+               {"model":"Trezia","type":"Economy"},
+               {"model":"Tribeca","type":"SUV"},
+               {"model":"XV","type":"Comfort"},
+               {"model":"XV Crosstrek","type":"Comfort"}
+            ]
+         },
+         {
+            "brand":"Sunlong",
+            "models":[
+               {"model":"SLK6972A6N","type":"Bus"}
+            ]
+         },
+         {
+            "brand":"Sunwin",
+            "models":[
+               {"model":"SWB6120","type":"Bus"}
+            ]
+         },
+         {
+            "brand":"Suzuki",
+            "models":[
+               {"model":"APV","type":"Van"},
+               {"model":"Alto","type":"Economy"},
+               {"model":"Baleno","type":"Economy"},
+               {"model":"Celerio","type":"Economy"},
+               {"model":"Ciaz","type":"Economy"},
+               {"model":"Cultus","type":"Economy"},
+               {"model":"Dzire","type":"Economy"},
+               {"model":"Ertiga","type":"Van"},
+               {"model":"Escudo","type":"SUV"},
+               {"model":"Esteem","type":"Economy"},
+               {"model":"Every","type":"SUV"},
+               {"model":"Grand Vitara","type":"SUV"},
+               {"model":"Ignis","type":"Economy"},
+               {"model":"Kizashi","type":"Comfort"},
+               {"model":"Liana","type":"Economy"},
+               {"model":"Mehran","type":"Economy"},
+               {"model":"SX4","type":"SUV"},
+               {"model":"Sidekick","type":"SUV"},
+               {"model":"Solio","type":"Comfort"},
+               {"model":"Spacia","type":"Economy"},
+               {"model":"Splash","type":"Economy"},
+               {"model":"Swace","type":"Comfort"},
+               {"model":"Swift","type":"Economy"},
+               {"model":"Vitara","type":"SUV"},
+               {"model":"Wagon R","type":"Economy"},
+               {"model":"XL7","type":"SUV"}
             ]
          }
     ]
